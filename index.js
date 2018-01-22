@@ -28,6 +28,7 @@ class BoardMember{
 
 class Ceo extends BoardMember{
   constructor(){
+    super()
   }
   
   hireEmployee(){
