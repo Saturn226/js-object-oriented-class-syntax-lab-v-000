@@ -27,10 +27,7 @@ class BoardMember{
 }
 
 class Ceo extends BoardMember{
-  constructor(props){
-    super(props)
-  }
-  
+ 
   hireEmployee(){
     return "Welcome aboard!"
   }
