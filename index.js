@@ -4,4 +4,24 @@ class BoardMember{
     this.homeState = homeState
     this.training = training
   }
+  
+  veto(){
+    
+  }
+  
+  approve(){
+    
+  }
+  
+  doCharity(){
+    
+  }
+  
+  releasePressStatement(){
+    
+  }
+  
+  sayHi(){
+    
+  }
 }
